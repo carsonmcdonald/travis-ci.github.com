@@ -33,7 +33,7 @@ Homebrew is installed and updated every time the VMs are updated. It is recommen
 
 ### Compilers & Build toolchain
 
-GCC 4.2.1, Clang 4.1, make, autotools.
+GCC 4.2.1, Clang 4.2, make, autotools.
 
 
 ### Networking tools
@@ -42,7 +42,7 @@ curl, wget, OpenSSL, rsync
 
 ### Xcode
 
-Xcode 4.6.1 is installed with the iOS 6.0 and 6.1 simulators. Command Line Tools are installed as well.
+Xcode 4.6.2 is installed with the iOS 6.0 and 6.1 simulators. Command Line Tools are installed as well.
 
 
 ### Runtimes
